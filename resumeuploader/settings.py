@@ -25,9 +25,7 @@ SECRET_KEY = 'django-insecure-#o37&mhrgcce%41&wp@*y5cor2)x2(1=d-hkjh3bm6wbw6dfm_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','']
-
-MEDIA_ROOT  = BASE_DIR / 'media'
+ALLOWED_HOSTS = ['127.0.0.1','doneresume.herokuapp.com']
 
 
 
